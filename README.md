@@ -1,1 +1,3 @@
-# Tutorial
+# Tutorial - U prilogu se nalazi uradjen zadatak (tutorial) MVC Movies.
+# Odradio sam sve korake kao i u tutorialu i naisao na gresku kod dodavanja "Rating" u bazu podataka i u sam program. Ispratio sam sve korake i proverio vise # puta i s obzirom da se prvi put susrecem sa "NuGet Package Manager", nisam uspeo da nadjem resenje za "Rating", create radi, u tabeli se pojavljuje, ali 
+# kod edita i detailsa se ne pojavljuje. Proverio sam i bazu, u delu gde se vide kolone tabela sa leve strane pise da postoji tabela "Rating", ali nije #updateovana u tabeli kada se pogleda "View Data". U folderu Mitigations takodje postoji "....Rating.cs". Kasnije zbog toga nije radio Required field bas kod #Ratinga. Nadam se da sam dovoljno dobro objasnio gde nisam mogao da pronadjem gresku, sve ostalo radi kako treba.
